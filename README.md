@@ -1,2 +1,2 @@
-# sme-commerce
-A platform where small and medium enterprises can on board and start their own e commerce website
+# college-mitra
+A donation platform for college kids to fund their projects , study material and books etc.
